@@ -1,0 +1,10 @@
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\obj\Debug\Adventure Project.csproj.AssemblyReference.cache
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\obj\Debug\Adventure_Project.Form1.resources
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\obj\Debug\Adventure_Project.Properties.Resources.resources
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\obj\Debug\Adventure Project.csproj.GenerateResource.cache
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\obj\Debug\Adventure Project.csproj.CoreCompileInputs.cache
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\bin\Debug\Adventure Project.exe.config
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\bin\Debug\Adventure Project.exe
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\bin\Debug\Adventure Project.pdb
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\obj\Debug\Adventure Project.exe
+C:\Users\s4kito01\OneDrive - OSAO\Tiedostot\VS Projektit\Adventure Project\Adventure Project\obj\Debug\Adventure Project.pdb
